@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+.body{
+	background-color:cornflowerblue;
+}
+.container{
+	margin-left:500px;
+	margin-top:250px;
+	 
+}
+.Submit{
+	
+	border-radius:15px;
+	background-color:#f2f7f8
+}
+
